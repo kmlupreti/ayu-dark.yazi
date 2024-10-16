@@ -47,7 +47,7 @@ progress_normal = { fg = "#C2A05C", bg = "#0A0E14" }
 progress_error  = { fg = "#A85361", bg = "#0A0E14" }
 
 # Permissions
-permissions_t = { fg = "#C2A05C" }
+permissions_t = { fg = "#C2C2C2" }  # Changed to match foreground
 permissions_w = { fg = "#A85361" }
 permissions_x = { fg = "#7E9350" }
 permissions_r = { fg = "#1F6F88" }
