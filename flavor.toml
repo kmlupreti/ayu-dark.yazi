@@ -32,13 +32,14 @@ border_symbol = " "
 # : Status {{{
 
 [status]
+
 separator_open  = ""
-separator_close = ""
-separator_style = { bg = "#2d3640", fg = "#1F6F88" }
+separator_close = ""
+separator_style = { bg = "#2d3640", fg = "#C2A05C" }
 
 # Mode
-mode_normal = { bg = "#1F6F88", fg = "#0A0E14", bold = true }
-mode_select= { bg = "#C2A05C", fg = "#0A0E14", bold = true }
+mode_normal = { bg = "#C2A05C", fg = "#0A0E14", bold = true }
+mode_select= { bg = "#1F6F88", fg = "#0A0E14", bold = true }
 mode_unset  = { bg = "#A85361", fg = "#0A0E14", bold = true }
 
 # Progress
