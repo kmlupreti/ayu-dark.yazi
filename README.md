@@ -13,7 +13,7 @@
 ## 🎨 Installation
 
 ```bash
-ya pack -a kmlupreti/ayu-dark
+ya pkg add kmlupreti/ayu-dark
 ```
 
 ## ⚙️ Usage
