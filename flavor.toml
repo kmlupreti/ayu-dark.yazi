@@ -1,10 +1,8 @@
+#:schema https://yazi-rs.github.io/schemas/theme.json
+
 [mgr]
 # current working dir
 cwd = { fg = "#5c6773" }
-
-# Hovered
-hovered         = { reversed = true }
-preview_hovered = { underline = true }
 
 # find
 find_keyword = { fg = "#1f6f88", bold = true, italic = true, underline = true }
@@ -25,7 +23,8 @@ count_cut = { fg = "#5c6773", bg = "#a85361" }
 count_selected = { fg = "#0a0e14", bg = "#c2a05c" }
 
 # border
-border_symbol = " "
+border_symbol = "│"
+border_style  = { fg = "#c2a05c" }
 
 [tabs]
 active   = { fg = "#0a0e14", bg = "#c2a05c", bold = true }
